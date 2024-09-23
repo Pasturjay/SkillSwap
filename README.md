@@ -27,8 +27,8 @@ Welcome to the Skillswap API! This project is designed to help users connect, sh
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/skillapi.git
-   cd skillapi/backend
+   git clone https://github.com/Pasturjay/SkillSwap.git
+   cd SkillSwap/backend
    ```
 
 2. **Create a virtual environment**:
